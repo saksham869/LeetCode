@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
 |  |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+## Sorting
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
