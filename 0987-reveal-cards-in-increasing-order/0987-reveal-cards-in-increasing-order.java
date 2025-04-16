@@ -1,29 +1,29 @@
 import java.util.*;
 
-public class Solution {
+class Solution {
     public int[] deckRevealedIncreasing(int[] deck) {
-        // Step 1: Sort the deck in ascending order
+        int n = deck.length;
+        int[] result = new int[n];
+        Queue<Integer> queue = new LinkedList<>();
+
+        // Fill the queue with indices 0 to n-1
+        for (int i = 0; i < n; i++) {
+            queue.offer(i);
+        }
+
+        // Sort the deck
         Arrays.sort(deck);
 
-        // Step 2: Initialize a deque to simulate the process
-        Deque<Integer> deque = new LinkedList<>();
+        // Place cards in the correct position
+        for (int card : deck) {
+            int index = queue.poll();         // Get index to place the card
+            result[index] = card;
 
-        // Step 3: Simulate the process in reverse
-        for (int i = deck.length - 1; i >= 0; i--) {
-            // Move the current front card to the back
-            if (!deque.isEmpty()) {
-                deque.addFirst(deque.removeLast());
+            if (!queue.isEmpty()) {
+                queue.offer(queue.poll());    // Move next index to the back
             }
-            // Place the current card at the front
-            deque.addFirst(deck[i]);
         }
 
-        // Step 4: Convert the deque to an array and return
-        int[] result = new int[deck.length];
-        int i = 0;
-        for (int card : deque) {
-            result[i++] = card;
-        }
         return result;
     }
 }
