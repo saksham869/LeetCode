@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0815-champagne-tower](https://github.com/saksham869/LeetCode/tree/master/0815-champagne-tower) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/saksham869/LeetCode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
