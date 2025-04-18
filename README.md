@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0815-champagne-tower](https://github.com/saksham869/LeetCode/tree/master/0815-champagne-tower) |
 <!---LeetCode Topics End-->
