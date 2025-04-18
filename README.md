@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saksham869/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saksham869/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
