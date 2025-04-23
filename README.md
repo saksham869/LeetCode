@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/saksham869/LeetCode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saksham869/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
+| [1500-count-largest-group](https://github.com/saksham869/LeetCode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Number Theory
 |  |
