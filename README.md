@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saksham869/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1500-count-largest-group](https://github.com/saksham869/LeetCode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saksham869/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saksham869/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saksham869/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
