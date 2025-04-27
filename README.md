@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/saksham869/LeetCode/tree/master/0134-gas-station) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
