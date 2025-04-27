@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/saksham869/LeetCode/tree/master/0060-permutation-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/saksham869/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
