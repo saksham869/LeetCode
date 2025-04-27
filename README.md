@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saksham869/LeetCode/tree/master/0038-count-and-say) |
 ## Two Pointers
 |  |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/saksham869/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
