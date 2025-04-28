@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/saksham869/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 ## Combinatorics
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/saksham869/LeetCode/tree/master/0077-combinations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
