@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
+| [0372-super-pow](https://github.com/saksham869/LeetCode/tree/master/0372-super-pow) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/saksham869/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
+| [0372-super-pow](https://github.com/saksham869/LeetCode/tree/master/0372-super-pow) |
 | [1500-count-largest-group](https://github.com/saksham869/LeetCode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Number Theory
