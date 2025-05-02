@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0815-champagne-tower](https://github.com/saksham869/LeetCode/tree/master/0815-champagne-tower) |
+| [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## String
@@ -128,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saksham869/LeetCode/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
+| [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
