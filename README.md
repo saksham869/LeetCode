@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saksham869/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saksham869/LeetCode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saksham869/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
