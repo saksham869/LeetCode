@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saksham869/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saksham869/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/saksham869/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1331-path-with-maximum-gold](https://github.com/saksham869/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saksham869/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/saksham869/LeetCode/tree/master/0077-combinations) |
+| [1331-path-with-maximum-gold](https://github.com/saksham869/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/saksham869/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1331-path-with-maximum-gold](https://github.com/saksham869/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Enumeration
 |  |
 | ------- |
