@@ -1,28 +1,41 @@
 import java.util.*;
 
 public class Solution {
+    // Memo: key = (position, lastChar), value = list of strings
+    private Map<String, List<String>> memo = new HashMap<>();
+
     public List<String> validStrings(int n) {
+        return helper(n, '2'); // '2' means no last char yet
+    }
+
+    private List<String> helper(int n, char lastChar) {
+        if (n == 0) {
+            return Arrays.asList("");
+        }
+
+        String key = n + "-" + lastChar;
+        if (memo.containsKey(key)) {
+            return memo.get(key);
+        }
+
         List<String> result = new ArrayList<>();
-        generateStrings("", n, result);
+
+        // Add '1' always
+        for (String s : helper(n - 1, '1')) {
+            result.add("1" + s);
+        }
+
+        // Add '0' only if lastChar != '0' (to avoid consecutive zeros)
+        if (lastChar != '0') {
+            for (String s : helper(n - 1, '0')) {
+                result.add("0" + s);
+            }
+        }
+
+        memo.put(key, result);
         return result;
     }
-    
-    private void generateStrings(String prefix, int n, List<String> result) {
-        if (prefix.length() == n) {
-            result.add(prefix);
-            return;
-        }
-        
-        // Add '1' always
-        generateStrings(prefix + "1", n, result);
-        
-        // Add '0' only if last char is not '0' (to avoid consecutive zeros)
-        if (prefix.isEmpty() || prefix.charAt(prefix.length() - 1) != '0') {
-            generateStrings(prefix + "0", n, result);
-        }
-    }
-    
-    // For quick testing
+
     public static void main(String[] args) {
         Solution sol = new Solution();
         List<String> res = sol.validStrings(3);
