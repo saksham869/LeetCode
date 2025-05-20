@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3321-type-of-triangle](https://github.com/saksham869/LeetCode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/saksham869/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [3639-zero-array-transformation-i](https://github.com/saksham869/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Combinatorics
 |  |
 | ------- |
