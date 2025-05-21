@@ -16,6 +16,7 @@ class Solution {
                 }
             }
         }
+        
 
         // Step 2: Set entire rows and columns to zero based on the marks
         for (int i = 0; i < rows; i++) {
