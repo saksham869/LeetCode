@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saksham869/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/saksham869/LeetCode/tree/master/0372-super-pow) |
 | [1279-prime-arrangements](https://github.com/saksham869/LeetCode/tree/master/1279-prime-arrangements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saksham869/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
