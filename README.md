@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/saksham869/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/saksham869/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/saksham869/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/saksham869/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/saksham869/LeetCode/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/saksham869/LeetCode/tree/master/0091-decode-ways) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
+| [3194-find-words-containing-character](https://github.com/saksham869/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saksham869/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
