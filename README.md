@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/saksham869/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saksham869/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/saksham869/LeetCode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/saksham869/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saksham869/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/saksham869/LeetCode/tree/master/0198-house-robber) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saksham869/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/saksham869/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saksham869/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/saksham869/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/saksham869/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
