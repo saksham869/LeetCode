@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Counting
 |  |
 | ------- |
@@ -266,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saksham869/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/saksham869/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
