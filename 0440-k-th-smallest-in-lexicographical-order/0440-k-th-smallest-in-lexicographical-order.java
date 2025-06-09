@@ -3,7 +3,8 @@ class Solution {
         int current = 1;
         k = k - 1; // we already have '1' at the start
 
-        while (k > 0) {
+        while (k > 0) 
+        {
             long steps = countSteps(n, current, current + 1);
             if (steps <= k) {
                 // move to the next prefix
