@@ -16,7 +16,7 @@ class Solution {
                 k -= 1;
             }
         }
-        return current;
+        return current
     }
 
     // Counts steps between [curr, next)
