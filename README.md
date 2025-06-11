@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/saksham869/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saksham869/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saksham869/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saksham869/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saksham869/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/saksham869/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saksham869/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3639-zero-array-transformation-i](https://github.com/saksham869/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saksham869/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/saksham869/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/saksham869/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saksham869/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
 | ------- |
