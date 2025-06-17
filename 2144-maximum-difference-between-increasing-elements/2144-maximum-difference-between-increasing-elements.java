@@ -1,5 +1,5 @@
 class Solution {
-    public int maximumDifference(int[] nums) {
+    public int maximumDifference(int[] nums){
         int min = nums[0];
         int maxDiff = -1;
 
