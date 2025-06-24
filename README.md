@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saksham869/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/saksham869/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/saksham869/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saksham869/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/saksham869/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
