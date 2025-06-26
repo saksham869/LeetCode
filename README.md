@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/saksham869/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saksham869/LeetCode/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/saksham869/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saksham869/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/saksham869/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saksham869/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saksham869/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saksham869/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saksham869/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saksham869/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/saksham869/LeetCode/tree/master/0372-super-pow) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saksham869/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saksham869/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saksham869/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saksham869/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1331-path-with-maximum-gold](https://github.com/saksham869/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Enumeration
