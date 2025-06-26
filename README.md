@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/saksham869/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saksham869/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saksham869/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saksham869/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/saksham869/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saksham869/LeetCode/tree/master/0213-house-robber-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/saksham869/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saksham869/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saksham869/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saksham869/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
