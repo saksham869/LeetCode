@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/saksham869/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saksham869/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/saksham869/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saksham869/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/saksham869/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/saksham869/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/saksham869/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/saksham869/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/saksham869/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/saksham869/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/saksham869/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saksham869/LeetCode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saksham869/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
