@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/saksham869/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/saksham869/LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saksham869/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saksham869/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/saksham869/LeetCode/tree/master/0060-permutation-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saksham869/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saksham869/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/saksham869/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/saksham869/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saksham869/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saksham869/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
