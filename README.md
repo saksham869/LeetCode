@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saksham869/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saksham869/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saksham869/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## String
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saksham869/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Breadth-First Search
 |  |
 | ------- |
