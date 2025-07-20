@@ -1,16 +1,26 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int left = 0; // Pointer for the position to place the next non-zero element
+        int size =nums.length;
+        if(size == 0 || size == 1){
+            return;
 
-        // Move all non-zero elements to the front
-        for (int right = 0; right < nums.length; right++) {
-            if (nums[right] != 0) {
-                // Swap non-zero element with left pointer
-                int temp = nums[left];
-                nums[left] = nums[right];
-                nums[right] = temp;
-                left++; // Move left pointer ahead
+        }
+        int nz = 0 , z = 0;
+        while(nz < size){
+            if(nums[nz] != 0){
+                int temp = nums[nz];
+                nums[nz] = nums[z];
+                nums[z] = temp;
+                nz++;
+                z++;
+
+            }else{
+                nz++;
+            
             }
         }
     }
 }
+
+      
+
