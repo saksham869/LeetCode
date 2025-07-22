@@ -4,7 +4,7 @@ class Solution {
         int[] ans = new int[n];
 
         int posIndex = 0;
-        int negIndex = 1; 
+        int negIndex = 1 ;
 
         for (int i = 0; i < n; i++) {
             
