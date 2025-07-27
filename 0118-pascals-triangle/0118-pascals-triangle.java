@@ -1,43 +1,31 @@
 import java.util.*;
 
 public class Solution {
-    public static List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
-        
-        if (numRows <= 0) return result;
-        
-        // First row initialization
-        List<Integer> firstRow = new ArrayList<>();
-        firstRow.add(1);
-        result.add(firstRow);
-        
-        // Generate remaining rows
-        for (int i = 1; i < numRows; i++) {
-            List<Integer> prevRow = result.get(i - 1);
+
+    // Function to generate Pascal's Triangle
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> triangle = new ArrayList<>();
+
+        for (int i = 0; i < numRows; i++) {
             List<Integer> row = new ArrayList<>();
-            
-            // Start row with 1
-            row.add(1);
-            
-            // Calculate middle elements
-            for (int j = 0; j < prevRow.size() - 1; j++) {
-                row.add(prevRow.get(j) + prevRow.get(j + 1));
+            for (int j = 0; j <= i; j++) {
+                if (j == 0 || j == i) row.add(1); // First and last element are always 1
+                else row.add(triangle.get(i - 1).get(j - 1) + triangle.get(i - 1).get(j));
             }
-            
-            // End row with 1
-            row.add(1);
-            result.add(row);
+            triangle.add(row);
         }
-        
-        return result;
+
+        return triangle;
     }
 
+    // Main method to run the program
     public static void main(String[] args) {
-        int numRows = 5; // Change this value to test
-        List<List<Integer>> pascalTriangle = generate(numRows);
-        
+        Solution sol = new Solution();
+        int numRows = 5; // You can change this to test with other values
+        List<List<Integer>> result = sol.generate(numRows);
+
         // Print Pascal's Triangle
-        for (List<Integer> row : pascalTriangle) {
+        for (List<Integer> row : result) {
             System.out.println(row);
         }
     }
