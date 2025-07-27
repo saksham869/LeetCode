@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saksham869/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saksham869/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saksham869/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/saksham869/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/saksham869/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saksham869/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/saksham869/LeetCode/tree/master/0136-single-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saksham869/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saksham869/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/saksham869/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saksham869/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saksham869/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saksham869/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
