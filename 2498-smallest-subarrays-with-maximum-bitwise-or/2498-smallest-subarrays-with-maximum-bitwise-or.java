@@ -2,6 +2,7 @@ class Solution {
     public int[] smallestSubarrays(int[] nums) {
         final int kMaxBit = 30;
         int[] ans = new int[nums.length];
+        
         int[] last = new int[kMaxBit];
         java.util.Arrays.fill(ans, 1);
         // last[j] = latest position where bit j was 1
