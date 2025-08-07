@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/saksham869/LeetCode/tree/master/3321-type-of-triangle) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saksham869/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/saksham869/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saksham869/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/saksham869/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/saksham869/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saksham869/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saksham869/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saksham869/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saksham869/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1331-path-with-maximum-gold](https://github.com/saksham869/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [2047-find-a-peak-element-ii](https://github.com/saksham869/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saksham869/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Enumeration
 |  |
 | ------- |
