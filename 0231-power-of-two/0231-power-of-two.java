@@ -7,7 +7,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPowerOfTwo(24));  // Output: true
+        System.out.println(isPowerOfTwo(24)) ; // Output: true
         System.out.println(isPowerOfTwo(6));   // Output: true
         System.out.println(isPowerOfTwo(10));  // Output: false
         System.out.println(isPowerOfTwo(1));   // Output: true
