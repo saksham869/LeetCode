@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saksham869/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saksham869/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/saksham869/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/saksham869/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/saksham869/LeetCode/tree/master/0372-super-pow) |
 | [0633-sum-of-square-numbers](https://github.com/saksham869/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/saksham869/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/saksham869/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/saksham869/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saksham869/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saksham869/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
