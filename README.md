@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -479,12 +480,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saksham869/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/saksham869/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saksham869/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -537,4 +540,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
