@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saksham869/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/saksham869/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/saksham869/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saksham869/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saksham869/LeetCode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/saksham869/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/saksham869/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saksham869/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saksham869/LeetCode/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/saksham869/LeetCode/tree/master/0091-decode-ways) |
