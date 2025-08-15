@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saksham869/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/saksham869/LeetCode/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/saksham869/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/saksham869/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/saksham869/LeetCode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saksham869/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saksham869/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/saksham869/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/saksham869/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/saksham869/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saksham869/LeetCode/tree/master/0283-move-zeroes) |
