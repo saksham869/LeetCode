@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/saksham869/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saksham869/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/saksham869/LeetCode/tree/master/0948-sort-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/saksham869/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham869/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/saksham869/LeetCode/tree/master/0372-super-pow) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/saksham869/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saksham869/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/saksham869/LeetCode/tree/master/1217-relative-sort-array) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saksham869/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
