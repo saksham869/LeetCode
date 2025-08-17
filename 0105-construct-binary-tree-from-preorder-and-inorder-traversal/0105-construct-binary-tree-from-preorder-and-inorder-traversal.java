@@ -13,30 +13,44 @@
  *     }
  * }
  */
+import java.util.HashMap;
+import java.util.Map;
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
+    private Map<Integer, Integer> inorderIndexMap = new HashMap<>();
+    private int preIndex = 0;
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return build(preorder, inorder, 0, preorder.length - 1, 0, inorder.length - 1);
+        // Build value -> index map for inorder traversal
+        for (int i = 0; i < inorder.length; i++) {
+            inorderIndexMap.put(inorder[i], i);
+        }
+        return build(preorder, 0, inorder.length - 1);
     }
 
-    private TreeNode build(int[] preorder, int[] inorder, int preStart, int preEnd, int inStart, int inEnd) {
-        if (preStart > preEnd || inStart > inEnd) return null;
+    private TreeNode build(int[] preorder, int inStart, int inEnd) {
+        if (inStart > inEnd) return null;
 
-        // The first element in preorder is the root
-        int rootVal = preorder[preStart];
+        int rootVal = preorder[preIndex++];
         TreeNode root = new TreeNode(rootVal);
 
-        // Find the index of the root in inorder
-        int inIndex = inStart;
-        while (inorder[inIndex] != rootVal) {
-            inIndex++;
-        }
-
-        // Number of nodes in the left subtree
-        int leftSize = inIndex - inStart;
-
-        // Recursively build the left and right subtrees
-        root.left = build(preorder, inorder, preStart + 1, preStart + leftSize, inStart, inIndex - 1);
-        root.right = build(preorder, inorder, preStart + leftSize + 1, preEnd, inIndex + 1, inEnd);
+        int inorderRootIndex = inorderIndexMap.get(rootVal);
+        root.left = build(preorder, inStart, inorderRootIndex - 1);
+        root.right = build(preorder, inorderRootIndex + 1, inEnd);
 
         return root;
     }
