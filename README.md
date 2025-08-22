@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saksham869/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saksham869/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/saksham869/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saksham869/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/saksham869/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1008-binary-tree-cameras](https://github.com/saksham869/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saksham869/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saksham869/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saksham869/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/saksham869/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
