@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/saksham869/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/saksham869/LeetCode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saksham869/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saksham869/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1217-relative-sort-array](https://github.com/saksham869/LeetCode/tree/master/1217-relative-sort-array) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saksham869/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/saksham869/LeetCode/tree/master/1036-rotting-oranges) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Counting
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saksham869/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/saksham869/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/saksham869/LeetCode/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/saksham869/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [2047-find-a-peak-element-ii](https://github.com/saksham869/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saksham869/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
