@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saksham869/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/saksham869/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/saksham869/LeetCode/tree/master/1036-rotting-oranges) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saksham869/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/saksham869/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1008-binary-tree-cameras](https://github.com/saksham869/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saksham869/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/saksham869/LeetCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/saksham869/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Brainteaser
 |  |
 | ------- |
@@ -706,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saksham869/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saksham869/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/saksham869/LeetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
