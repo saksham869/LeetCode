@@ -27,7 +27,7 @@ class Router {
     private final Queue<Packet> packetQueue = new LinkedList<>();
     private final Set<Packet> uniquePackets = new HashSet<>();
     private final Map<Integer, List<Integer>> destinationTimestamps = new HashMap<>();
-    // Index to track already forwarded packets per destination for time queries
+   
     private final Map<Integer, Integer> processedPacketIndex = new HashMap<>();
 
     public Router(int memoryLimit) {
