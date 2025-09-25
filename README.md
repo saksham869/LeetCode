@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/saksham869/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/saksham869/LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/saksham869/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saksham869/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/saksham869/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/saksham869/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/saksham869/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/saksham869/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/saksham869/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/saksham869/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
