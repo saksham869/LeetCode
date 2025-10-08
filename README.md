@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/saksham869/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saksham869/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/saksham869/LeetCode/tree/master/0792-binary-search) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saksham869/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saksham869/LeetCode/tree/master/0455-assign-cookies) |
+| [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/saksham869/LeetCode/tree/master/0948-sort-an-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
 | [1397-search-suggestions-system](https://github.com/saksham869/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/saksham869/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saksham869/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1397-search-suggestions-system](https://github.com/saksham869/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Design
 |  |
