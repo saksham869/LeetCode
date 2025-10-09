@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/saksham869/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0677-map-sum-pairs](https://github.com/saksham869/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
+| [0677-map-sum-pairs](https://github.com/saksham869/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
@@ -679,12 +681,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/saksham869/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saksham869/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
+| [0677-map-sum-pairs](https://github.com/saksham869/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1397-search-suggestions-system](https://github.com/saksham869/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/saksham869/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0677-map-sum-pairs](https://github.com/saksham869/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saksham869/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/saksham869/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/saksham869/LeetCode/tree/master/3797-design-spreadsheet) |
