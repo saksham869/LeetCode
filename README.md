@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/saksham869/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/saksham869/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1013-fibonacci-number](https://github.com/saksham869/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/saksham869/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1279-prime-arrangements](https://github.com/saksham869/LeetCode/tree/master/1279-prime-arrangements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saksham869/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-champagne-tower](https://github.com/saksham869/LeetCode/tree/master/0815-champagne-tower) |
 | [0868-push-dominoes](https://github.com/saksham869/LeetCode/tree/master/0868-push-dominoes) |
 | [1008-binary-tree-cameras](https://github.com/saksham869/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1013-fibonacci-number](https://github.com/saksham869/LeetCode/tree/master/1013-fibonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saksham869/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saksham869/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saksham869/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saksham869/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham869/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/saksham869/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saksham869/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saksham869/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/saksham869/LeetCode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saksham869/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Breadth-First Search
 |  |
