@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/saksham869/LeetCode/tree/master/0595-big-countries) |
 | [1135-customers-who-bought-all-products](https://github.com/saksham869/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1258-article-views-i](https://github.com/saksham869/LeetCode/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/saksham869/LeetCode/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/saksham869/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/saksham869/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/saksham869/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
