@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saksham869/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/saksham869/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/saksham869/LeetCode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/saksham869/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/saksham869/LeetCode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/saksham869/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham869/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/saksham869/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/saksham869/LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/saksham869/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/saksham869/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saksham869/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/saksham869/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/saksham869/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/saksham869/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/saksham869/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saksham869/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
