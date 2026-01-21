@@ -7,7 +7,7 @@ class Solution {
         }
 
         int low = 1;
-        int high = x/2;
+        int high = x;
         int ans = 0;
 
         while (low <= high) {
