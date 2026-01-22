@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saksham869/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saksham869/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/saksham869/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/saksham869/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/saksham869/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saksham869/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/saksham869/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/saksham869/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saksham869/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/saksham869/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/saksham869/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/saksham869/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/saksham869/LeetCode/tree/master/0091-decode-ways) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saksham869/LeetCode/tree/master/0062-unique-paths) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Recursion
 |  |
