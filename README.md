@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/saksham869/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/saksham869/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/saksham869/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/saksham869/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saksham869/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saksham869/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saksham869/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saksham869/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/saksham869/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/saksham869/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/saksham869/LeetCode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/saksham869/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
