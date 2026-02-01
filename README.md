@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/saksham869/LeetCode/tree/master/1036-rotting-oranges) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saksham869/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/saksham869/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Counting
 |  |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/saksham869/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/saksham869/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saksham869/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/saksham869/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Trie
@@ -873,4 +875,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saksham869/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/saksham869/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/saksham869/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
