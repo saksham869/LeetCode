@@ -1,17 +1,34 @@
 class Solution {
-    public int singleNonDuplicate(int[] nums) {
-        int low = 0, high = nums.length - 1;
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            if (mid % 2 == 1) 
-                mid--;  // ensure we compare the start of a pair
-            
-            // Check pair alignment
-            if (nums[mid] == nums[mid + 1])
-                low = mid + 2;  // single element is further right
-            else
-                high = mid;     // single element is at mid or left
-        }
-        return nums[low];
-    }
-}
+
+        public int singleNonDuplicate(int[] nums) {
+
+                int l = 0;
+                        int h = nums.length - 1;
+
+                                while (l < h) {
+
+                                            int mid = l + (h - l) / 2;
+
+                                                        boolean isRightEven = (h - mid) % 2 == 0;
+
+                                                                    if (nums[mid] == nums[mid + 1]) {
+
+                                                                                    if (isRightEven) {
+                                                                                                        l = mid + 2;
+                                                                                                                        } else {
+                                                                                                                                            h = mid - 1;
+                                                                                                                                                            }
+
+                                                                                                                                                                        } else {
+
+                                                                                                                                                                                        if (isRightEven) {
+                                                                                                                                                                                                            h = mid;
+                                                                                                                                                                                                                            } else {
+                                                                                                                                                                                                                                                l = mid + 1;
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                                                                                            return nums[l];
+                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                }
