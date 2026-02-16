@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saksham869/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/saksham869/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/saksham869/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/saksham869/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saksham869/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/saksham869/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saksham869/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saksham869/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/saksham869/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1539-kth-missing-positive-number](https://github.com/saksham869/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saksham869/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/saksham869/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saksham869/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
