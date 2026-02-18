@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saksham869/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saksham869/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saksham869/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2439-minimize-maximum-of-array](https://github.com/saksham869/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saksham869/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saksham869/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/saksham869/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/saksham869/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/saksham869/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2280-count-good-triplets-in-an-array](https://github.com/saksham869/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2439-minimize-maximum-of-array](https://github.com/saksham869/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saksham869/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saksham869/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/saksham869/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saksham869/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saksham869/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saksham869/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2439-minimize-maximum-of-array](https://github.com/saksham869/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saksham869/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saksham869/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saksham869/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/saksham869/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/saksham869/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saksham869/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2439-minimize-maximum-of-array](https://github.com/saksham869/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saksham869/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saksham869/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saksham869/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2439-minimize-maximum-of-array](https://github.com/saksham869/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/saksham869/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saksham869/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/saksham869/LeetCode/tree/master/3639-zero-array-transformation-i) |
