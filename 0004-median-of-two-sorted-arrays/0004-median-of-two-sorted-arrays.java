@@ -1,38 +1,46 @@
-public class Solution {
-    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        // Ensure nums1 is the smaller array
-        if (nums1.length > nums2.length) {
-            return findMedianSortedArrays(nums2, nums1);
-        }
+class Solution {
 
-        int m = nums1.length;
-        int n = nums2.length;
-        int low = 0, high = m;
+        public double findMedianSortedArrays(int[] arr1, int[] arr2) {
 
-        while (low <= high) {
-            int partitionX = (low + high) / 2;
-            int partitionY = (m + n + 1) / 2 - partitionX;
+                        if (arr1.length > arr2.length) {
+                                    return findMedianSortedArrays(arr2, arr1);
+                                            }
 
-            int maxLeftX = (partitionX == 0) ? Integer.MIN_VALUE : nums1[partitionX - 1];
-            int minRightX = (partitionX == m) ? Integer.MAX_VALUE : nums1[partitionX];
+                                                    int n1 = arr1.length;
+                                                            int n2 = arr2.length;
 
-            int maxLeftY = (partitionY == 0) ? Integer.MIN_VALUE : nums2[partitionY - 1];
-            int minRightY = (partitionY == n) ? Integer.MAX_VALUE : nums2[partitionY];
+                                                                    int l = 0;
+                                                                            int h = n1;
 
-            if (maxLeftX <= minRightY && maxLeftY <= minRightX) {
-                if ((m + n) % 2 == 0) {
-                    return ((double)Math.max(maxLeftX, maxLeftY) + Math.min(minRightX, minRightY)) / 2;
-                } else {
-                    return (double)Math.max(maxLeftX, maxLeftY);
-                }
-            } else if (maxLeftX > minRightY) {
-                high = partitionX - 1;
-            } else {
-                low = partitionX + 1;
-            }
-        }
+                                                                                    while (l <= h) {
 
-        throw new IllegalArgumentException("Input arrays are not sorted properly.");
-    }
-}
+                                                                                                int m1 = (l + h) / 2;
+                                                                                                            int m2 = (n1 + n2 + 1) / 2 - m1;
 
+                                                                                                                        int left1  = (m1 == 0) ? Integer.MIN_VALUE : arr1[m1 - 1];
+                                                                                                                                    int right1 = (m1 == n1) ? Integer.MAX_VALUE : arr1[m1];
+
+                                                                                                                                                int left2  = (m2 == 0) ? Integer.MIN_VALUE : arr2[m2 - 1];
+                                                                                                                                                            int right2 = (m2 == n2) ? Integer.MAX_VALUE : arr2[m2];
+
+                                                                                                                                                                                    if (left1 <= right2 && left2 <= right1) {
+
+                                                                                                                                                                                                    if ((n1 + n2) % 2 == 0) {
+                                                                                                                                                                                                                        return (Math.max(left1, left2) +
+                                                                                                                                                                                                                                                    Math.min(right1, right2)) / 2.0;
+                                                                                                                                                                                                                                                                    } else {
+                                                                                                                                                                                                                                                                                        return Math.max(left1, left2);
+                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                                                                                                                                            else if (left1 > right2) {
+                                                                                                                                                                                                                                                                                                                                                            h = m1 - 1;
+                                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                                                                else {
+                                                                                                                                                                                                                                                                                                                                                                                                                l = m1 + 1;
+                                                                                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                            return 0.0; // never reached
+                                                                                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                }
