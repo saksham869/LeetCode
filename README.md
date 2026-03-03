@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/saksham869/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saksham869/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/saksham869/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/saksham869/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/saksham869/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/saksham869/LeetCode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/saksham869/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saksham869/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saksham869/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/saksham869/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saksham869/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saksham869/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
