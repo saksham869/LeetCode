@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/saksham869/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/saksham869/LeetCode/tree/master/0948-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/saksham869/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/saksham869/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/saksham869/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/saksham869/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saksham869/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/saksham869/LeetCode/tree/master/1217-relative-sort-array) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/saksham869/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/saksham869/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/saksham869/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/saksham869/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saksham869/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2249-count-the-hidden-sequences](https://github.com/saksham869/LeetCode/tree/master/2249-count-the-hidden-sequences) |
