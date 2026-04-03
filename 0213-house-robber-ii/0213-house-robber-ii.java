@@ -1,31 +1,31 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        
-        if (n == 0) return 0;
         if (n == 1) return nums[0];
-        if (n == 2) return Math.max(nums[0], nums[1]);
 
-        // Rob from 0 to n-2
-        int option1 = robLinear(nums, 0, n - 2);
-        // Rob from 1 to n-1
-        int option2 = robLinear(nums, 1, n - 1);
-        
-        return Math.max(option1, option2);
+        return Math.max(
+            robTab(nums, 0, n - 2),
+            robTab(nums, 1, n - 1)
+        );
     }
 
-    // Helper function (same as House Robber I)
-    private int robLinear(int[] nums, int start, int end) {
-        int incl = 0, excl = 0;
+    private int robTab(int[] nums, int start, int end) {
+        int len = end - start + 1;
+        int[] dp = new int[len];
 
-        for (int i = start; i <= end; i++) {
-            int newIncl = excl + nums[i];
-            int newExcl = Math.max(incl, excl);
+        dp[0] = nums[start];
 
-            incl = newIncl;
-            excl = newExcl;
+        if (len > 1) {
+            dp[1] = Math.max(nums[start], nums[start + 1]);
         }
 
-        return Math.max(incl, excl);
+        for (int i = 2; i < len; i++) {
+            dp[i] = Math.max(
+                dp[i - 1],
+                nums[start + i] + dp[i - 2]
+            );
+        }
+
+        return dp[len - 1];
     }
 }
